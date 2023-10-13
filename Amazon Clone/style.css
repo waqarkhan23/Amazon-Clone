@@ -1,0 +1,19 @@
+* {
+  margin: 0;
+  font-family: arial;
+  border: border-box;
+}
+.navbar {
+  height: 65px;
+  background-color: #0f1111;
+  color: white;
+}
+#Nav-Logo {
+  height: 60px;
+  width: 100px;
+}
+#Logo {
+  background-image: url("amazonjp.jpg");
+  height: 50px;
+  width: 100%;
+}
